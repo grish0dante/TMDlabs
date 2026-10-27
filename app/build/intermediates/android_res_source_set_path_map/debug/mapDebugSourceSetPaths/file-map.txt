@@ -1,0 +1,8 @@
+com.example.todolist.app-pngs-0 U:\WorkDesk\TMD\ToDoList-master\app\build\generated\res\pngs\debug
+com.example.todolist.app-updated_navigation_xml-1 U:\WorkDesk\TMD\ToDoList-master\app\build\generated\updated_navigation_xml\debug
+com.example.todolist.app-packageDebugResources-2 U:\WorkDesk\TMD\ToDoList-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.todolist.app-packageDebugResources-3 U:\WorkDesk\TMD\ToDoList-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.todolist.app-debug-4 U:\WorkDesk\TMD\ToDoList-master\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.todolist.app-debug-5 U:\WorkDesk\TMD\ToDoList-master\app\src\debug\res
+com.example.todolist.app-main-6 U:\WorkDesk\TMD\ToDoList-master\app\src\main\res
+gradleHome-0 C:\Users\danil\.gradle

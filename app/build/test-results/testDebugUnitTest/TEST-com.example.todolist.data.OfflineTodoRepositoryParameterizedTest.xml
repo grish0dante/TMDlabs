@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-27T12:46:05.818Z" hostname="DESKTOP-HHO2MU5" time="0.021">
+  <properties/>
+  <testcase name="testTodoModelValidationParameterized[Title: &quot;Купити молоко&quot;, Completed: false, Expected Valid: true]" classname="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" time="0.014"/>
+  <testcase name="testTodoModelValidationParameterized[Title: &quot;Зробити лабораторну&quot;, Completed: true, Expected Valid: true]" classname="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" time="0.001"/>
+  <testcase name="testTodoModelValidationParameterized[Title: &quot;З&quot;, Completed: false, Expected Valid: true]" classname="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" time="0.0"/>
+  <testcase name="testTodoModelValidationParameterized[Title: &quot;&quot;, Completed: false, Expected Valid: false]" classname="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" time="0.0"/>
+  <testcase name="testTodoModelValidationParameterized[Title: &quot;   &quot;, Completed: true, Expected Valid: false]" classname="com.example.todolist.data.OfflineTodoRepositoryParameterizedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

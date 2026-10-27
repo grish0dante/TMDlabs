@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="U:\WorkDesk\TMD\ToDoList-master\app\src\main\assets"><file name="database/database.db" path="U:\WorkDesk\TMD\ToDoList-master\app\src\main\assets\database\database.db"/></source></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="U:\WorkDesk\TMD\ToDoList-master\app\src\debug\assets"/></dataSet></merger>
