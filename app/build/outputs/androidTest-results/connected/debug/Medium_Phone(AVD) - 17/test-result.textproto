@@ -1,0 +1,189 @@
+# proto-message: google.testing.platform.proto.api.core.TestSuiteResult
+# 2026-11-02T10:31:50.051624100Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 3
+  device {
+    id: "emulator-5554"
+    friendly_name: "primary"
+  }
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "EditScreenTitleParameterizedTest"
+    test_package: "com.example.todolist.ui"
+    test_method: "testEditScreen_titleInputAndSave[\320\222\321\205\321\226\320\264\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\232\321\203\320\277\320\270\321\202\320\270 \320\274\320\276\320\273\320\276\320\272\320\276\" -> \320\227\320\261\320\265\321\200\320\265\320\266\320\265\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\232\321\203\320\277\320\270\321\202\320\270 \320\274\320\276\320\273\320\276\320\272\320\276\"]"
+    start_time {
+      seconds: 1793615499
+      nanos: 211000000
+    }
+    end_time {
+      seconds: 1793615503
+      nanos: 997000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\logcat-com.example.todolist.ui.EditScreenTitleParameterizedTest-testEditScreen_titleInputAndSave_______________________________-___________________________________.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "EditScreenTitleParameterizedTest"
+    test_package: "com.example.todolist.ui"
+    test_method: "testEditScreen_titleInputAndSave[\320\222\321\205\321\226\320\264\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\227\321\200\320\276\320\261\320\270\321\202\320\270 \320\273\320\260\320\261\320\276\321\200\320\260\321\202\320\276\321\200\320\275\321\203 \321\200\320\276\320\261\320\276\321\202\321\203\" -> \320\227\320\261\320\265\321\200\320\265\320\266\320\265\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\227\321\200\320\276\320\261\320\270\321\202\320\270 \320\273\320\260\320\261\320\276\321\200\320\260\321\202\320\276\321\200\320\275\321\203 \321\200\320\276\320\261\320\276\321\202\321\203\"]"
+    start_time {
+      seconds: 1793615504
+      nanos: 72000000
+    }
+    end_time {
+      seconds: 1793615506
+      nanos: 673000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\logcat-com.example.todolist.ui.EditScreenTitleParameterizedTest-testEditScreen_titleInputAndSave____________________________________________-________________________________________________.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "EditScreenTitleParameterizedTest"
+    test_package: "com.example.todolist.ui"
+    test_method: "testEditScreen_titleInputAndSave[\320\222\321\205\321\226\320\264\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\242\320\265\321\201\321\202\320\276\320\262\320\260 \320\267\320\260\320\264\320\260\321\207\320\260 123 !@#\" -> \320\227\320\261\320\265\321\200\320\265\320\266\320\265\320\275\320\260 \320\275\320\260\320\267\320\262\320\260: \"\320\242\320\265\321\201\321\202\320\276\320\262\320\260 \320\267\320\260\320\264\320\260\321\207\320\260 123 !@#\"]"
+    start_time {
+      seconds: 1793615506
+      nanos: 676000000
+    }
+    end_time {
+      seconds: 1793615508
+      nanos: 963000000
+    }
+    device {
+      id: "emulator-5554"
+      friendly_name: "primary"
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\logcat-com.example.todolist.ui.EditScreenTitleParameterizedTest-testEditScreen_titleInputAndSave_______________________________123______-___________________________________123______.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "U:\\WorkDesk\\TMD\\ToDoList-master\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Medium_Phone(AVD) - 17\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="3" failures="0" errors="0" skipped="0" time="10.814" timestamp="2026-11-02T10:31:50" hostname="localhost">
+  <testsuite name="com.example.todolist.ui.EditScreenTitleParameterizedTest" tests="3" failures="0" errors="0" skipped="0" time="9.676" timestamp="2026-11-02T10:31:50" hostname="localhost">
+    <properties>
+      <property name="device" value="Medium_Phone(AVD) - 17" />
+      <property name="flavor" value="" />
+      <property name="project" value=":app" />
+    </properties>
+    <testcase name='testEditScreen_titleInputAndSave[Вхідна назва: "Купити молоко" -&gt; Збережена назва: "Купити молоко"]' classname="com.example.todolist.ui.EditScreenTitleParameterizedTest" time="4.785" />
+    <testcase name='testEditScreen_titleInputAndSave[Вхідна назва: "Зробити лабораторну роботу" -&gt; Збережена назва: "Зробити лабораторну роботу"]' classname="com.example.todolist.ui.EditScreenTitleParameterizedTest" time="2.603" />
+    <testcase name='testEditScreen_titleInputAndSave[Вхідна назва: "Тестова задача 123 !&#64;#" -&gt; Збережена назва: "Тестова задача 123 !&#64;#"]' classname="com.example.todolist.ui.EditScreenTitleParameterizedTest" time="2.288" />
+  </testsuite>
+</testsuites>
