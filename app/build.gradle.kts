@@ -68,4 +68,7 @@ dependencies {
 
     // Full extended library (Warning: Includes thousands of icons and slows builds)
     implementation(libs.androidx.compose.material.icons.extended)
+    // Бібліотека MockK для тестування Kotlin
+    testImplementation("io.mockk:mockk:1.14.11")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.11.0")
 }

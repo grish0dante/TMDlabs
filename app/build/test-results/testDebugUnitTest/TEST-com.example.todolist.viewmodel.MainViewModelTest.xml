@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.todolist.viewmodel.MainViewModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-02T09:00:38.691Z" hostname="DESKTOP-HHO2MU5" time="1.339">
+  <properties/>
+  <testcase name="testViewModel_fetchesDataFromRepository_mock" classname="com.example.todolist.viewmodel.MainViewModelTest" time="1.281"/>
+  <testcase name="testViewModel_callsInsertMethod_spy" classname="com.example.todolist.viewmodel.MainViewModelTest" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\danil\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.18.2\62f38a6faf7f069d661b79a07d566f504b0b20c4\byte-buddy-agent-1.18.2.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
