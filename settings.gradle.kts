@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ToDoList"
 include(":app")
- 
+include(":appium-tests")
